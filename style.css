@@ -38,7 +38,7 @@ body p {
 body h2 {
   font-family: var(--font-principal);
   font-size: 2.4rem;
-  padding: 0;
+  padding: 1px 0;
 }
  
 /* ============================
@@ -256,7 +256,8 @@ main img {
 }
  
 .information-bloque h3 {
-  padding: 0;
+  
+  padding: 3px 0;
   margin: 10px 0;
   font-size: 2.4rem;
   font-family: var(--font-principal);
@@ -334,7 +335,8 @@ main img {
  
 .dresscode h3 {
   font-size: 1.4rem;
-  padding: 0;
+    padding: 1px 0;
+
   margin: 0;
 }
  
@@ -389,7 +391,7 @@ label .grupo-opciones {
 }
  
 .formulario .formtitle {
-  font-family: var(--font-principal);
+  font-family: var(--font-principa);
   color: var(--color-principal);
   font-size: 1.4em;
   padding: 0;
